@@ -1,6 +1,6 @@
-# Muselab IOT Shield
+# Microbit Extension board for classroom
 
-A PXT library for Muse IOT Shield
+A Microbit Extension board for classroom
 
 ## Blocks
 
